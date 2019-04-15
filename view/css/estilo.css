@@ -1,0 +1,154 @@
+body {
+    background-color: DodgerBlue;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+
+.topo{
+    margin-top: 20px;
+    text-align: center;
+    color:#FFFFFF;
+}
+
+.topo div{
+    display: inline-block;
+    vertical-align: middle 
+}
+#img_topo{
+    margin-right: 100px;
+    width:250px;
+    height:200px;
+}
+
+#titulo{
+    font-size: 50px;
+}
+#subtitulo{
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#FF0000; 
+    width:450px;
+    border-radius: 15px 50px;
+    
+}
+
+.nav_bar{
+    width: 100%;
+    background-color: #FFCC00; 
+}
+
+.nav_item{
+    width: 100px;
+    height: 50px;
+    background-color: #FFCC00; 
+}
+
+.nav_item a{
+    text-decoration: none;
+    color: black;
+}
+
+.nome {
+    font: 40px, 'serif''sans-serif' black;
+    text-align: center;
+    padding: 20px;
+}
+
+.produtos {
+    width: 100%;
+}
+
+.produtos th td{
+    border:1px solid black; 
+}
+
+.pagar{
+    float: right;
+}
+
+#total{
+    background-color: #DDAC0CFF;
+    font-size: 30px;
+    color: red;
+}
+
+#subtotal{
+    font-size: 20px;
+}
+
+h1, h2 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+    background-color: #87CEEB;
+}
+
+.img-produto {
+   width:150px; 
+    height:200px;
+}
+
+.imgs-apresentacao {
+    width: 30%;
+    height: 25%;
+}
+
+.galeria {
+    margin-left: 10%;
+    padding-top: 10px;
+}
+
+.promo{
+    text-align: center;
+    color:black;
+}
+
+.promo h2{
+    margin-top: 10px;
+}
+
+.promo h3{
+    font-size: 24px;
+}
+
+
+.apresentacao h2{
+    margin-top: 10px;
+}
+
+#desc-promo{
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#FF0000; 
+    width:900px;
+    border-radius: 15px 15px;
+}
+
+.conteudo{
+    width:100%;
+}
+
+.conteudo th td{
+    border:1px solid black; 
+    font-weight: bolder;
+}
+
+
+
+.img-oferta{
+    width:150px; 
+    height:200px;
+}
+
+.precos{
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#FF0000;
+    width: 50%;
+    border-radius: 15px 50px;
+    color:#FFFFFF ;
+    font-weight: bolder;
+    font-size: 20px;
+}

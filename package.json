@@ -1,0 +1,30 @@
+{
+  "name": "mercadoquasetudo",
+  "version": "1.0.0",
+  "description": "Ecommerce do supermercado quase tudo",
+  "main": "gulfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H1berto/EcommerceQuaseTudo.git"
+  },
+  "keywords": [
+    "ecommerce",
+    "php"
+  ],
+  "author": "Humberto Barone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/H1berto/EcommerceQuaseTudo/issues"
+  },
+  "homepage": "https://github.com/H1berto/EcommerceQuaseTudo#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-connect-php": "^1.0.3"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}
